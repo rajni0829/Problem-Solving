@@ -25,6 +25,7 @@ bool isPossible(vector<int> &stalls,int mid,int k){
 }
 
 
+//Driver Code
 int main()
 {
     vector<int> stalls{1,2,3,4,6};
