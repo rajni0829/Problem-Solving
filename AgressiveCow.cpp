@@ -1,8 +1,7 @@
 //Aggressive Cow : Advanced BS Problem
 #include <iostream>
 using namespace std;
-#include <utility>
-#include<vector>
+#include <bits/stdc++.h>
 
 
 bool isPossible(vector<int> &stalls,int mid,int k){
