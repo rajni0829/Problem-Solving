@@ -4,6 +4,7 @@ using namespace std;
 #include <utility>
 #include<vector>
 
+
 bool isPossible(vector<int> &stalls,int mid,int k){
     int cowCount=1;
     int lastPos = stalls[0];
